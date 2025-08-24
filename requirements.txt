@@ -1,0 +1,6 @@
+TTS==0.22.0
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+google-genai==1.31.0
+simpleaudio==1.0.4

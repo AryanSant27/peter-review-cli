@@ -1,0 +1,2 @@
+[console_scripts]
+peter-review = peter_review_cli:main

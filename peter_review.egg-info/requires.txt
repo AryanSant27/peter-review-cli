@@ -1,0 +1,4 @@
+simpleaudio
+TTS==0.22.0
+torch==2.5.1+cu118
+google-genai
