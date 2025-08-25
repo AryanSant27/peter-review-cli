@@ -37,8 +37,14 @@ pip install .
 ```
 ## Usage
 
+**Create your own .env file and put your Gemini API Key there as:**
+```bash 
+GEMINI_API_KEY = yourownapikey
+```
+
 Using it is really easy, even if it is confined in a virtual environment
-First activate the virtual environment for this
+First activate the virtual environment for this 
+
 
 ```bash
 venv\Scripts\activate
